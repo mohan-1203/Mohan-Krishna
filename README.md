@@ -2,7 +2,7 @@
 ### Hi, 
 ### I’m @Mohan krishna, a data enthusiast passionate about transforming raw data into meaningful insights.
 ### 👀 Interests: I excel at uncovering trends, creating impactful visualizations, and streamlining complex processes.
-# 🌱 Skills:
+## 🌱 Skills:
 ### Power BI: Designing interactive and visually engaging dashboards.
 ### Python: Applying scripting to analyze and manipulate data effectively.
 ### Tableau:Designing interactive and visually engaging dashboards.
